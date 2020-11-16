@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/fxlmer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 
-[fxlmer github stats](https://github-readme-stats.vercel.app/api?username=fxlmer&show_icons=true&theme=synthwave)
+![fxlmer github stats](https://github-readme-stats.vercel.app/api?username=fxlmer&show_icons=true&theme=synthwave)
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
