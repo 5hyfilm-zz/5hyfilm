@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/5hyfilm?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 
-![5hyfilm github stats](https://github-readme-stats.vercel.app/api?username=fxlmer&show_icons=true&theme=synthwave)
+![5hyfilm github stats](https://github-readme-stats.vercel.app/api?username=5hyfilm&show_icons=true&theme=synthwave)
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -30,7 +30,7 @@
 ---
 
 
-[website]: https://fxlmer.github.io/
-[twitter]: https://twitter.com/fxlmer
-[instagram]: https://instagram.com/fxlmer
+[website]: https://5hyfilm.github.io/
+[twitter]: https://twitter.com/5hyfilm
+[instagram]: https://instagram.com/5hyfilm
 [linkedin]: https://www.linkedin.com/in/waranthornchansawang/
