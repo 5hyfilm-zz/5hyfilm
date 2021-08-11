@@ -1,10 +1,11 @@
 ### Hi there, I'm Film 👋
 <p align="center">
  <img src="https://github.com/5hyfilm/5hyfilm/blob/master/background.png" align="center" alt="Header"/>
+ 
+ ---
+ 
  <h2 align="center">5HYFILM's Profile</h2>
 </p>
-
----
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=5hyfilm&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="5hyfilm's Github Stats">
