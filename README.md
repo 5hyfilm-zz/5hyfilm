@@ -27,3 +27,5 @@
     <a href="https://twitter.com/5hyfilm"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
    <a href="https://medium.com/@5hyfilm"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
+
+<!-- Icon from: https://dev.to/envoy_/150-badges-for-github-pnk -->
