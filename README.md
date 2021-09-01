@@ -1,6 +1,6 @@
 ### Hi there, I'm Film 👋
 <p align="center">
- <img src="https://github.com/5hyfilm/5hyfilm/blob/master/background.png" align="center" alt="Header"/>
+<!--  <img src="https://github.com/5hyfilm/5hyfilm/blob/master/background.png" align="center" alt="Header"/> -->
  
  ---
  
